@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+jobs.db
+jobs.db-wal
+jobs.db-shm
+.env
+fix.py
